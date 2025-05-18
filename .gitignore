@@ -1,0 +1,12 @@
+# PyCharm
+.idea/
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+venv/
+env/
