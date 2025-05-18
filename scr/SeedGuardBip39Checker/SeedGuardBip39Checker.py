@@ -1,7 +1,35 @@
-# This is a sample Python script.
+# Main Project: SEEDGUARD.IO
+#
+# Program: SeedGuardBip39Checker
+#
+# Version: 1.1.2 (Release Date: May 18, 2025)
+#
+# GitHub: https://github.com/SecureData/DataGuardian
+#
+# Project Summary:
+#
+# Disclaimer:
+#
+# The SEEDGUARD.IO development team is not responsible for any consequences resulting from the use of the
+# SeedGuardBip39Checker program.
+# Users operate the program at their own risk. We strongly recommend reading the documentation
+# and following the security guidelines.
+#
+# Security Warning:
+# Please note that ANY information on your computer can be compromised.
+# There is a risk of third-party access to your data. Do not store or enter your working seed phrase on any computer,
+# phone, or internet-connected device.
+# For additional protection of your private information, please review our security recommendations:
+#
+# https://github.com/SecureData/DataGuardian/blob/main/security-recommendations.md
+#
+# About Donations:
+#
+# Your donations inspire and support the SecureData development team in improving the DataGuardian project.
+# Thanks to your help, we can introduce new features, enhance security, and make the program even better for all users.
+# If you like our work, you can support us by sending a donation to the ETH address: 0x0000. ETH, USDT,
+# USDC are accepted, and you can use the ARBITRUM network.
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 import hashlib
 import os
