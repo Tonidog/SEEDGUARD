@@ -1,4 +1,4 @@
-#My
+#My 2
 # Ignore the draft folder (as per your confirmation)
 draft/
 
@@ -17,3 +17,7 @@ __pycache__/
 *.sqlite3
 venv/
 env/
+
+# Дополнительные исключения для публичной ветки
+*.log           # Игнорировать все лог-файлы
+temp/           # Игнорировать папку temp
