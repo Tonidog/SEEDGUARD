@@ -1,8 +1,9 @@
 #My
-/draft/
-*rus.*
-*Rus.*
-*RUS.*
+# Ignore the draft folder (as per your confirmation)
+draft/
+
+# Ignore files ending with rus/Rus/RUS in any folder
+**/*[rR][uU][sS]
 
 # PyCharm
 .idea/
